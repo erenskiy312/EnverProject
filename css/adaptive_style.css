@@ -349,8 +349,17 @@
     font-size: 30px;
   }
 
-  .vector {
-    /* width: 30px;  */
+  #vector_2{
+    left: 261px;
+  }
+
+  #vector_3 {
+    top: 403px;
+  }
+
+  #vector_4{
+    left: 273px;
+    top: 376px;
   }
 
   .services__title_main {
